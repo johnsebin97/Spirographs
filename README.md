@@ -42,4 +42,4 @@ A hypotrochoid is a roulette traced by a point attached to a circle of radius r 
 
 ![hypotrochoid_Image](https://upload.wikimedia.org/wikipedia/commons/f/fa/HypotrochoidOutThreeFifths.gif)
 
-Have fun playing around with the values to create more shapes.
+Have fun playing around with the values in ```Spirograph.py``` to create more shapes.
